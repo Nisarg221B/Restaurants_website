@@ -33,8 +33,8 @@ A robust back-end and a responsive front-end, delivering an intuitive and effici
 
 <table>
   <tr>
-    <td>Sign IN</td>
-     <td>Sign UP</td>
+    <td><b>SignIN</b></td>
+     <td><b>SignUP</b></td>
   </tr>
   <tr>
     <td><img src="screenshots/image_signin.jpeg" width=500 height=480></td>
@@ -43,25 +43,19 @@ A robust back-end and a responsive front-end, delivering an intuitive and effici
  </table>
 
 
-* **Menu**
+* **Menu and Checkout**
 
 
 <table>
   <tr>
-    <td>Sign IN</td>
-     <td>Sign UP</td>
+    <td><b>Menu</b></td>
+     <td><b>Checkout</b></td>
   </tr>
   <tr>
     <td><img src="screenshots/image_menu.png" width=500 height=480></td>
     <td><img src="screenshots/image_checkout.jpeg" width=500 height=480></td>
   </tr>
  </table>
-
-![Menu](screenshots/image_menu.png)
-
-* **Checkout**
-
-![Checkout](screenshots/image_checkout.jpeg)
 
 ## Installation and Setup
 
