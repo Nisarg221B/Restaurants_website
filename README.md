@@ -37,8 +37,8 @@ A robust back-end and a responsive front-end, delivering an intuitive and effici
      <td>Sign UP</td>
   </tr>
   <tr>
-    <td><img src="screenshots/image_signin.jpeg" width=270 height=480></td>
-    <td><img src="screenshots/image_signup.jpeg" width=270 height=480></td>
+    <td><img src="screenshots/image_signin.jpeg" width=500 height=480></td>
+    <td><img src="screenshots/image_signup.png" width=500 height=480></td>
   </tr>
  </table>
 
