@@ -45,11 +45,11 @@ A robust back-end and a responsive front-end, delivering an intuitive and effici
 
 * **Menu**
 
-![Image C](https://github.com/Nisarg221B/FaceSwap/blob/d91aac36e26fdeb2a265d987379ecf8cc6d1cfde/All%20Final%20Images/final_images6/sample_image_a.png)
+![Menu](screenshots/image_menu.png)
 
 * **Checkout**
 
-![Image D](https://github.com/Nisarg221B/FaceSwap/blob/d91aac36e26fdeb2a265d987379ecf8cc6d1cfde/All%20Final%20Images/final_images6/sample_image_a.png)
+![Checkout](screenshots/image_checkout.jpeg)
 
 ## Installation and Setup
 
