@@ -45,6 +45,18 @@ A robust back-end and a responsive front-end, delivering an intuitive and effici
 
 * **Menu**
 
+
+<table>
+  <tr>
+    <td>Sign IN</td>
+     <td>Sign UP</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/image_menu.png" width=500 height=480></td>
+    <td><img src="screenshots/image_checkout.jpeg" width=500 height=480></td>
+  </tr>
+ </table>
+
 ![Menu](screenshots/image_menu.png)
 
 * **Checkout**
