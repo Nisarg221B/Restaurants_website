@@ -29,13 +29,18 @@ A robust back-end and a responsive front-end, delivering an intuitive and effici
 
 ![Image A](https://github.com/Nisarg221B/Restaurants_website/blob/4a3e5e0e8bcd91747d06e7de75beb00064d4291d/screenshots/image_homePage.png)
 
-* **Sign In**
+* **SignIn && SignUP**
 
-![Image B](https://github.com/Nisarg221B/FaceSwap/blob/d91aac36e26fdeb2a265d987379ecf8cc6d1cfde/All%20Final%20Images/final_images6/sample_image_a.png)
-
-* **Sign In**
-
-![Image C](https://github.com/Nisarg221B/FaceSwap/blob/d91aac36e26fdeb2a265d987379ecf8cc6d1cfde/All%20Final%20Images/final_images6/sample_image_a.png)
+<table>
+  <tr>
+    <td>Sign IN</td>
+     <td>Sign UP</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/image_signin.jpeg" width=270 height=480></td>
+    <td><img src="screenshots/image_signup.jpeg" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 * **Menu**
